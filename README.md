@@ -1,6 +1,6 @@
-# khdma
+# Khedma Project -- Flutter
 
-A new Flutter project.
+A Flutter mobile application for the Laravel Backend
 
 ## Getting Started
 
